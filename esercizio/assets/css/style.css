@@ -6,7 +6,7 @@ header{text-align: center; }
 
 #claim{ text-align: center;}
 
-#claim{color:rgb(1, 95, 95);}
+#claim{color:rgb(22, 117, 117);}
 
 #claim {border-top: 2px solid orange; }
 
@@ -28,4 +28,6 @@ header{text-align: center; }
 #primoLink p:nth-child(1) {color:red;}
 
 section {width:50vw; margin: 0 auto;}
+
+a{color:rgb(22, 117, 117); }
 
